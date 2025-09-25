@@ -1,16 +1,33 @@
-# React + Vite
+Prayer Times App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that displays daily Islamic prayer times.
+The user can select different governorates in Egypt, and the app will automatically update the prayer times using the AlAdhan API.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Display prayer times (Fajr, Dhuhr, Asr, Maghrib, Isha).
 
-## React Compiler
+ Change governorate and get updated times instantly.
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ Built with React Hooks (useState, useEffect).
 
-## Expanding the ESLint configuration
+ Styled using CSS Flexbox for responsive design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+ Technologies Used
+
+React.js
+
+JavaScript (ES6+)
+
+CSS Flexbox
+
+AlAdhan Prayer Times API
+
+Screenshot
+
+<img width="1569" height="1063" alt="image" src="https://github.com/user-attachments/assets/eb480124-22c3-41e6-88f6-25ddf20e19eb" />
+<img width="1577" height="1063" alt="image" src="https://github.com/user-attachments/assets/b9f0e340-f5d3-4838-b974-816b99147f83" />
+<img width="1572" height="1022" alt="image" src="https://github.com/user-attachments/assets/a1c6fbc4-7177-4e2e-952d-64df1dbd15b2" />
+
+
